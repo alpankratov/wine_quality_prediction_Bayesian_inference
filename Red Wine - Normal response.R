@@ -1,7 +1,6 @@
 library(readr)
 library(tidyr)
 library(dplyr)
-library(tibble)
 library(ggplot2)
 library(GGally)
 library(gridExtra)
